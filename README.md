@@ -17,6 +17,4 @@ A4 - implementation of VCG auction mechanism
 **part B**
 
 B in this part you are the bidder, your target is to get your transactions into blockchain as fast as possible, while paying the minimal possible fee to the miners.
-
-B1 - implementation of a "forward" bidding agent that looks on the current mempool and try to guess the time that will take to his transaction to be added according to fee. than the agent select the fee that maximaize his utility function.
-
+in this part there is an implementation of two types of bidders, 'simple agent', 'forward agent'
