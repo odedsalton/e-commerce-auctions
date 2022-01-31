@@ -9,11 +9,12 @@ Time - the time for each transaction entered to the memory pool
 Removed Time- only for confirmed transactions,the time stemp of the transaction
 
 **Part A**
+
 A2 - A3 - implementation of greedy knapsack, the function chooses the transaction according to Satoshi per byte until no more transactions can be added.
 
 A4 - implementation of VCG auction mechanism
 
-**part B **
+**part B**
 
 B in this part you are the bidder, your target is to get your transactions into blockchain as fast as possible, while paying the minimal possible fee to the miners.
 
